@@ -48,7 +48,7 @@ class Menu extends Phaser.Scene {
           this.scene.start("playScene");    
         }
         if (Phaser.Input.Keyboard.JustDown(keyRIGHT)) {
-          // Expert mode
+          // Expert mode wefafasfasfsafas
           game.settings = {
             spaceshipSpeed: 4,
             gameTimer: 45000    
